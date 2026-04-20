@@ -492,7 +492,7 @@ export default function App() {
               </div>
               <div className="space-y-4 p-3 bg-zinc-50 rounded-lg border border-zinc-100">
                 <div className="flex justify-between items-center">
-                  <span className="text-[10px] font-mono font-bold uppercase tracking-widest text-zinc-500">Daily Shift Capacity</span>
+                  <span className="text-[10px] font-mono font-bold uppercase tracking-widest text-zinc-500">Shift Hours</span>
                   <div className="flex items-center gap-2">
                     <input 
                       type="number" 
