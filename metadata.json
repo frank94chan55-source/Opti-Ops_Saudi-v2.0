@@ -1,0 +1,6 @@
+{
+  "name": "Opti-Ops v2.0",
+  "description": "A technical dashboard for production planners to calculate required productive hours and optimize manpower costs between FTE and Sub-Contractors, based on a 10h/30-day operational model.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
